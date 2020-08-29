@@ -27,7 +27,7 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 
 ## Video 
 
-- Check this video https://www.youtube.com/watch?v=WaqY-pQpuV0
+- Check this video https://www.youtube.com/c/hackteachz
 
 - Do you want like a mr robot hacking scene when Angela moss plug usb into computer for get  credential information ? you can choose payload in brutal ( optional 3 or 4 )
 
